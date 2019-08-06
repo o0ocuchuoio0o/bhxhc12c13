@@ -1,0 +1,13 @@
+D:\thu\bhxhc12c13\bhxhc12c13\bin\Debug\bhxhc12c13.exe
+D:\thu\bhxhc12c13\bhxhc12c13\bin\Debug\bhxhc12c13.pdb
+D:\thu\bhxhc12c13\bhxhc12c13\bin\Debug\bhxhc12c13.xml
+D:\thu\bhxhc12c13\bhxhc12c13\obj\x86\Debug\bhxhc12c13.Form1.resources
+D:\thu\bhxhc12c13\bhxhc12c13\obj\x86\Debug\bhxhc12c13.Resources.resources
+D:\thu\bhxhc12c13\bhxhc12c13\obj\x86\Debug\bhxhc12c13.vbproj.GenerateResource.Cache
+D:\thu\bhxhc12c13\bhxhc12c13\obj\x86\Debug\bhxhc12c13.exe
+D:\thu\bhxhc12c13\bhxhc12c13\obj\x86\Debug\bhxhc12c13.xml
+D:\thu\bhxhc12c13\bhxhc12c13\obj\x86\Debug\bhxhc12c13.pdb
+D:\thu\bhxhc12c13\bhxhc12c13\obj\x86\Debug\bhxhc12c13.exe.licenses
+D:\thu\bhxhc12c13\bhxhc12c13\bin\Debug\bhxhc12c13.exe.config
+D:\thu\bhxhc12c13\bhxhc12c13\obj\x86\Debug\bhxhc12c13.Form2.resources
+D:\thu\bhxhc12c13\bhxhc12c13\obj\x86\Debug\bhxhc12c13.Form3.resources
